@@ -7,7 +7,7 @@
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-[install-url]: http://github.com/leadingbump/Hassio-Addons/LegrandMQTT
+[install-url]: https://github.com/leadingbump/Hassio-Addons/tree/main/LegrandMQTT
 [install-badge]: https://img.shields.io/badge/Install%20on%20my-Home%20Assistant-41BDF5?logo=home-assistant
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
