@@ -11,3 +11,4 @@ https://github.com/leadingbump/Hassio-Addons
 
 ## Add-ons in this repository
  - **[Omada Controller](/Omada-Controller/README.md)**: Deploy TP-Link Omada Controller software for managing TP-Link Wireless Access Points and other devices. 
+ - **[LegrandMQTT](/LegrandMQTT/README.md)**: Connect Legrand Adorne switches to HASS.
