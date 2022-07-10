@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-pip3 install paho-mqtt tendo
+#pip3 install paho-mqtt tendo
 #
 #
 # To run in crontab, do the same again as root
