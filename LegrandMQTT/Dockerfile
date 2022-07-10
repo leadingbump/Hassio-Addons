@@ -1,9 +1,9 @@
 ARG BASE=mbentley/ubuntu:20.04
 FROM ${BASE}
 
-RUN sudo apt-get update -y
-RUN sudo apt-get install -y python3
-RUN sudo apt-get install -y pip3
+RUN apt-get update -y
+RUN apt-get install -y python3
+RUN apt-get install -y pip3
 
 
 
