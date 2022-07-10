@@ -3,6 +3,8 @@
     "version": "0.1.0",
     "slug": "legrand_bridge",
     "description": "Legrand MQTT bridge connect adorne lights to HASS",
-    "url": "https://github.com/leadingbump/Hassio-Addons/LegrandMQTT"
+    "url": "https://github.com/leadingbump/Hassio-Addons/LegrandMQTT",
+    "arch": ["aarch64", "amd64", "armv7", "i386"],
+    "init": false
   
 }
