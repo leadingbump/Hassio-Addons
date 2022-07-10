@@ -10,6 +10,6 @@ RUN pip3 install paho-mqtt
 
 COPY lc7001-mqtt-bridge.conf lc7001-mqtt-bridge.py run.sh /
 
-RUN a+x chmod /run.sh
+RUN chmod a+x /run.sh
 
 CMD [ "/run.sh" ]
